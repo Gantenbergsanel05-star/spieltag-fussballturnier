@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Spieltag – Fußballturnier",
+  "short_name": "Spieltag",
+  "description": "Einfacher Spielplan und Live-Tabelle für dein Fußballturnier.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6f2",
+  "theme_color": "#23734a",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
